@@ -14,6 +14,5 @@ Console.WriteLine("Please Imput two numbers");
 int num1=Convert.ToInt32(Console.ReadLine());
 int num2=Convert.ToInt32(Console.ReadLine());
 
-
 bool result = CheckSquareTwoNumbers(num1, num2);
 Console.WriteLine(result? "Yes" : "No");
