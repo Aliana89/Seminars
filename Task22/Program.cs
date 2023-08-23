@@ -23,3 +23,4 @@ while (i <= n)
     Console.WriteLine($"{i, 3} -> {i*i, 5}");
     i++;
 }
+WriteTableSquare(n);
